@@ -1,8 +1,8 @@
-# Olijoh M. Clarke 
+![](https://media-exp1.licdn.com/dms/image/C4D16AQFlUOA1AWFQ6g/profile-displaybackgroundimage-shrink_350_1400/0/1661184590800?e=1671667200&v=beta&t=pd4WL8lhejqeJNDuBpHDds9QLKK2MBYiDaDlY6ICS3I)
+# Hello I'm Olijoh M. Clarke,
+a New York native, currently residing in North Carolina. 
 
-## `Data Analyst`
-
-Hello, I'm an entry-level Data Analyst, making a career change from 10+ years working in various roles, as a Pharmacy Technician, and a recently separated Airborne Military Police Veteran. I Completed a Data Analytics Immersion Bootcamp at Thinkful. Over the past four months, I learned Excel (Pivots, Formulas, Visualization, Analysis, Statistics) SQL, Python(Pandas, Numpy, Seaborn), data cleaning, data querying and Tableau. During this 50+ a week courses, I've also completed 3 Capstone projects as well a working on some for my own portfolio.  Along side that I've learned how to use PowerBI, as I noticed its another industry standard that would be good to add to my skillset. Currently a student at Thomas Edison State University for Mathematics and Data Science as I continue to progress in my career this will be added
+  I'm  an entry-level Data Analyst, making a career change from 10+ years working in various roles, as a Pharmacy Technician, ranging from retail to wholesale, inpatient, instructing, and sales. Also a recently separated Airborne Military Police Veteran. I Completed a Data Analytics Immersion Bootcamp at Thinkful. Over the past four months, I learned Excel (Pivots, Formulas, Visualization, Analysis, Statistics) SQL, Python(Pandas, Numpy, Seaborn), data cleaning, data querying and Tableau. During this 50+ a week courses, I've also completed 3 Capstone projects as well a working on some for my own portfolio.  Along side that I've learned how to use PowerBI, as I noticed its another industry standard that would be good to add to my skillset. Currently a student at Thomas Edison State University for Mathematics and Data Science as I continue to progress in my career this will be added
 
 In this overview I will be updating my portfolio, projects and webpage. 
 
@@ -24,21 +24,24 @@ In this overview I will be updating my portfolio, projects and webpage.
 
 #
 
-### - 🔭 I’m currently working on ...
+### - 📊 I’m currently working on ...
 
 Website, and Capstone 3, Data Analyst Certifications...
 
-### `Completed Projects` 
+## `Completed Projects` 
 
-#
-
-#### Business Analysis - Revenue Growth Models  
+<details>
+<summary><h3> Business Analysis - Revenue Growth Models</h3> </summary> 
 Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI 
 performance and solutions to increase profits while lowering operating costs for the next fiscal year.
+</details>
 
-#### Statistical Analysis - Fuel Economy Annual Fuel Costs
-
-### `🧰 Future Tools, Languages, and Certifications`
+<details>
+  <summary><h3> Statistical Analysis - Fuel Economy Annual Fuel Costs</h3></summary>
+</details>
+  
+  <details>
+<summary><h3>🧰 Future Goals, Tools, and Languages </h3></summary>
 
 #
 
