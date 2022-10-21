@@ -19,7 +19,9 @@ In this overview I will be updating my portfolio, projects and webpage.
 <img align="left" alt="NumPy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1535px-Pandas_mark.svg.png" />
 <img align="left" alt="Tableau" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197085484-329678c8-c7bc-4c79-876c-da1bcd02e205.svg" />
-<br/>
+<img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197123883-98d0dd9b-7a5f-4d36-b4cf-c9ac25961f49.svg" />
+<br/><br/>
+
 
 
 #
