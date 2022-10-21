@@ -30,6 +30,8 @@ Website, and Capstone 3, Data Analyst Certifications...
 
 ### `Completed Projects` 
 
+#
+
 #### Business Analysis - Revenue Growth Models  
 Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI 
 performance and solutions to increase profits while lowering operating costs for the next fiscal year.
@@ -37,6 +39,8 @@ performance and solutions to increase profits while lowering operating costs for
 #### Statistical Analysis - Fuel Economy Annual Fuel Costs
 
 ### `🧰 Future Tools, Languages, and Certifications`
+
+#
 
 <img align="left" alt="R" width="50px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
