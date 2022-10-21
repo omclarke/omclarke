@@ -1,10 +1,14 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQFlUOA1AWFQ6g/profile-displaybackgroundimage-shrink_350_1400/0/1661184590800?e=1671667200&v=beta&t=pd4WL8lhejqeJNDuBpHDds9QLKK2MBYiDaDlY6ICS3I)
 # Hello I'm Olijoh M. Clarke,
-a New York native, currently residing in North Carolina. 
+a New York native, and  Army veteran currently residing in North Carolina. 
 
   I'm  an entry-level Data Analyst, making a career change from 10+ years working in various roles, as a Pharmacy Technician, ranging from retail to wholesale, inpatient, instructing, and sales. Also a recently separated Airborne Military Police Veteran. I've completed a **'Data Analytics Immersion Bootcamp'** at Thinkful. Over the past four months, I learned Excel (Pivots, Formulas, Visualization, Analysis, Statistics) SQL, Python(Pandas, Numpy, Seaborn), data cleaning, data querying and Tableau. During this 50+ hours a week course, I've also completed 3 Capstone projects as well a working on some for my own portfolio.  Along side that I've learned how to use PowerBI, as I noticed its another industry standard that would be good to add to my skillset. Currently a student at Thomas Edison State University for Mathematics and Data Science as I continue to progress in my career.
+  
+  ⚡ Fun fact: I love biking, cars, drawing, writing, and cinema.
 
 In this overview I will be updating my portfolio, projects and webpage. 
+
+
 
 ---
 
@@ -33,13 +37,34 @@ Website, and Capstone 3, Data Analyst Certifications...
 ## `Completed Projects` 
 
 <details>
-<summary><h3> Business Analysis - Revenue Growth Models</h3> </summary> 
-Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI 
-performance and solutions to increase profits while lowering operating costs for the next fiscal year.
+  <summary><h3> Business Analysis -<a href= "https://drive.google.com/drive/folders/1v9HcgFNm1ypx5I4lYb4Xtkz5WM6zaNlx?usp=sharing">  Revenue Growth Models </a> <br></h3> </summary>
+  Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI 
+performance and solutions to increase profits while lowering operating costs for the next fiscal year. In process of this data, I cleaned the data, and separated profits down to location. The locations were focused areas based around airports and non airport locations. 
+  A key, action that was implemented in this project, I removed all products that had a net negative return, increasing profits of the company by 270K. Before implementing any further strategies. 
+  
+  ##### Further Analysis
+> At the end of the analysis, I've come to realize the data collected on the customers wasn't sufficient enough create better strategies.  
+> Such as, customer IDs, to track how many repeat customers are apart of the income the company makes, and how we can capitilize on thes repeat customers. 
+> A further analysis I want to conduct: Some customers crash the vehicles, and how does this impact the company. 
+  
+  <a href= "https://drive.google.com/drive/folders/1v9HcgFNm1ypx5I4lYb4Xtkz5WM6zaNlx?usp=sharing"> Business Analysis Project</a>. 
 </details>
 
 <details>
-  <summary><h3> Statistical Analysis - Fuel Economy Annual Fuel Costs</h3></summary>
+  <summary><h3> Statistical Analysis - <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing"> Fuel Economy Annual Fuel Costs </a><br></h3></summary>
+  In this scenario, I analyzed a Fuel Economy Data set provided by Fueleconomy.gov
+  After reviewing the data, it was previously cleaned so I was able to go straight into analyizing and creating pivot tables, filtering on providing information requiring the findings to the consultation firm. 
+  In the analysis, the focus was on the annual fuel cost, in this case I focused on vehicle classes (Compact, Medium and Large)
+  I conducted T-Test to find the differences between the classes.
+  In addition from the results of the vehicle classes, I conducted a further analysis of the transmission type of the most cost effective vehicle class. 
+  
+  
+  #### Further Analysis
+ > Conduct statistical analysis on alternative fuel types, and annual fuel costs.
+ > Conduct electric vehicle effiency vs. hybrid vehicles 
+ > Which company provides the most fuel effective vehicles. 
+  
+  <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing">Annual Fuel Costs </a>
 </details>
   
   <details>
