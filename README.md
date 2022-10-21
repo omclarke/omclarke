@@ -17,9 +17,10 @@ In this overview I will be updating my portfolio, projects and webpage.
 <img align="left" alt="Tableau" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197084832-4b7b6d7f-815d-4cd5-89b9-939d7ffd6c5c.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197081439-befe6b5b-e79a-4275-98ad-e840c0f68deb.svg" />
 <img align="left" alt="NumPy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1535px-Pandas_mark.svg.png" />
+<img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1535px-Pandas_mark.svg.png" />
 <img align="left" alt="Tableau" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197085484-329678c8-c7bc-4c79-876c-da1bcd02e205.svg" />
 <br/>
+
 
 #
 
