@@ -53,7 +53,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
 <img align="left" alt="Cython" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197076481-2482e77b-c2b8-4777-8cc5-de735211e84e.svg" />
 
 <img align="left" alt="LUA" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+</details>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omclarke/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](olijohclarke.me)  
 
 <!--
 **omclarke/omclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
