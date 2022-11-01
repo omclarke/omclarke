@@ -58,16 +58,12 @@ performance and solutions to increase profits while lowering operating costs for
   I conducted T-Test to find the differences between the classes.
   In addition from the results of the vehicle classes, I conducted a further analysis of the transmission type of the most cost effective vehicle class. 
   
-  
   #### Further Analysis
  > Conduct statistical analysis on alternative fuel types, and annual fuel costs.
  > Conduct electric vehicle effiency vs. hybrid vehicles 
  > Which company provides the most fuel effective vehicles. 
   
   <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing">Annual Fuel Costs </a>
-</details>
-  
-  <a href= "https://drive.google.com/drive/folders/1v9HcgFNm1ypx5I4lYb4Xtkz5WM6zaNlx?usp=sharing"> Business Analysis Project</a>. 
 </details>
 
 <details>
