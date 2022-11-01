@@ -47,7 +47,7 @@ performance and solutions to increase profits while lowering operating costs for
 > Such as, customer IDs, to track how many repeat customers are apart of the income the company makes, and how we can capitilize on thes repeat customers. 
 > A further analysis I want to conduct: Some customers crash the vehicles, and how does this impact the company. 
   
-  <a href= "https://drive.google.com/drive/folders/1v9HcgFNm1ypx5I4lYb4Xtkz5WM6zaNlx?usp=sharing"> Business Analysis Project</a>. 
+  <a href= "https://docs.google.com/spreadsheets/d/1PpxyidOkzBXqa53Z4VjyUtzSUNAnUB1O/edit?usp=sharing&ouid=100228686255823127825&rtpof=true&sd=true"> Business Analysis Project</a>. 
 </details>
 
 <details>
@@ -63,14 +63,14 @@ performance and solutions to increase profits while lowering operating costs for
  > Conduct electric vehicle effiency vs. hybrid vehicles 
  > Which company provides the most fuel effective vehicles. 
   
-  <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing">Annual Fuel Costs </a>
+  <a href= "https://docs.google.com/spreadsheets/d/14xxjN0DS1KbqL7yekLqlXpqpT5ciPpja/edit?usp=sharing&ouid=100228686255823127825&rtpof=true&sd=true">Annual Fuel Costs </a>
 </details>
 
 <details>
   <summary><h3> Python Data Analysis - <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing"> Currency Correlations </a><br></h3></summary>
   Unlike the stock market, where each stock has some correlation, it can be easily a result of causation as the markets are driven by emotion and speculation. In the Foreign exchange markets its based off a correlation as the prices of each currency is in relation to another. i.e. the USD value increases but in relation to another currency. In this analysis, we compare each pair, to another pair, which we find correlations of these pairs with in both positive and negatively.    
   
-  <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing">Currency Correlations </a>
+  <a href= "https://colab.research.google.com/drive/1Ttze_VOorx7DaxSGflEt1ofkWJ9d5nhT?usp=sharing">Currency Correlations </a>
 </details>
   
   <details>
