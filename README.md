@@ -67,10 +67,10 @@ performance and solutions to increase profits while lowering operating costs for
 </details>
 
 <details>
-  <summary><h3> Currency Correlation In Python - <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing"> Python Data Analysis </a><br></h3></summary>
+  <summary><h3> Python Data Analysis - <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing"> Currency Correlations </a><br></h3></summary>
   Unlike the stock market, where each stock has some correlation, it can be easily a result of causation as the markets are driven by emotion and speculation. In the Foreign exchange markets its based off a correlation as the prices of each currency is in relation to another. i.e. the USD value increases but in relation to another currency. In this analysis, we compare each pair, to another pair, which we find correlations of these pairs with in both positive and negatively.    
   
-  <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing">Annual Fuel Costs </a>
+  <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing">Currency Correlations </a>
 </details>
   
   <details>
