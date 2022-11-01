@@ -67,6 +67,26 @@ performance and solutions to increase profits while lowering operating costs for
   <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing">Annual Fuel Costs </a>
 </details>
   
+  <a href= "https://drive.google.com/drive/folders/1v9HcgFNm1ypx5I4lYb4Xtkz5WM6zaNlx?usp=sharing"> Business Analysis Project</a>. 
+</details>
+
+<details>
+  <summary><h3> Currency Correlation In Python - <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing"> Fuel Economy Annual Fuel Costs </a><br></h3></summary>
+  In this scenario, I analyzed a Fuel Economy Data set provided by Fueleconomy.gov
+  After reviewing the data, it was previously cleaned so I was able to go straight into analyizing and creating pivot tables, filtering on providing information requiring the findings to the consultation firm. 
+  In the analysis, the focus was on the annual fuel cost, in this case I focused on vehicle classes (Compact, Medium and Large)
+  I conducted T-Test to find the differences between the classes.
+  In addition from the results of the vehicle classes, I conducted a further analysis of the transmission type of the most cost effective vehicle class. 
+  
+  
+  #### Further Analysis
+ > Conduct statistical analysis on alternative fuel types, and annual fuel costs.
+ > Conduct electric vehicle effiency vs. hybrid vehicles 
+ > Which company provides the most fuel effective vehicles. 
+  
+  <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing">Annual Fuel Costs </a>
+</details>
+  
   <details>
 <summary><h3>🧰 Future Goals, Tools, and Languages </h3></summary>
 
