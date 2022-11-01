@@ -71,20 +71,10 @@ performance and solutions to increase profits while lowering operating costs for
 </details>
 
 <details>
-  <summary><h3> Currency Correlation In Python - <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing"> Fuel Economy Annual Fuel Costs </a><br></h3></summary>
-  In this scenario, I analyzed a Fuel Economy Data set provided by Fueleconomy.gov
-  After reviewing the data, it was previously cleaned so I was able to go straight into analyizing and creating pivot tables, filtering on providing information requiring the findings to the consultation firm. 
-  In the analysis, the focus was on the annual fuel cost, in this case I focused on vehicle classes (Compact, Medium and Large)
-  I conducted T-Test to find the differences between the classes.
-  In addition from the results of the vehicle classes, I conducted a further analysis of the transmission type of the most cost effective vehicle class. 
+  <summary><h3> Currency Correlation In Python - <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing"> Python Data Analysis </a><br></h3></summary>
+  Unlike the stock market, where each stock has some correlation, it can be easily a result of causation as the markets are driven by emotion and speculation. In the Foreign exchange markets its based off a correlation as the prices of each currency is in relation to another. i.e. the USD value increases but in relation to another currency. In this analysis, we compare each pair, to another pair, which we find correlations of these pairs with in both positive and negatively.    
   
-  
-  #### Further Analysis
- > Conduct statistical analysis on alternative fuel types, and annual fuel costs.
- > Conduct electric vehicle effiency vs. hybrid vehicles 
- > Which company provides the most fuel effective vehicles. 
-  
-  <a href= "https://drive.google.com/drive/folders/1qVn46VRbfOqBTtWmztAxdcJI-jhcvsP6?usp=sharing">Annual Fuel Costs </a>
+  <a href= "https://drive.google.com/drive/folders/1gDE5jUTxbKCotF-v33emtStTephSj6w4?usp=sharing">Annual Fuel Costs </a>
 </details>
   
   <details>
