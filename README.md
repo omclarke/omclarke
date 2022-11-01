@@ -4,7 +4,7 @@ A New York native, and Army veteran currently residing in North Carolina.
 
   I'm  an entry-level Data Analyst, making a career change from 10+ years working in various roles, as a Pharmacy Technician, ranging from retail to wholesale, inpatient, instructing, and sales. Also a recently separated Airborne Military Police Veteran. I've completed a **'Data Analytics Immersion Bootcamp'** at Thinkful. Over the past four months, I learned Excel (Pivots, Formulas, Visualization, Analysis, Statistics) SQL, Python(Pandas, Numpy, Seaborn), data cleaning, data querying and Tableau. During this 50+ hours a week course, I've also completed 3 Capstone projects as well a working on some for my own portfolio.  Along side that I've learned how to use PowerBI, as I noticed its another industry standard that would be good to add to my skillset. Currently a student at Thomas Edison State University for Mathematics and Data Science as I continue to progress in my career.
   
-  ⚡ Fun fact: I love biking, cars, drawing, writing, cooking, and cinema. And I increase employee morale by 52.3%  
+  ⚡ Fun fact: I love biking, cars, drawing, writing, cooking, and I increase employee morale by 52.3% 😎
 
 In this overview I will be updating my portfolio, projects and webpage. 
 
@@ -32,7 +32,7 @@ In this overview I will be updating my portfolio, projects and webpage.
 
 ### - 📊 I’m currently working on ...
 
-Website, and Capstone 3, Data Analyst Certifications...
+Webpage, and Data Analyst Certifications...
 
 ## `Completed Projects` 
 
