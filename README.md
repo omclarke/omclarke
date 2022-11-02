@@ -8,6 +8,17 @@ A New York native, and Army veteran currently residing in North Carolina.
 
 In this overview I will be updating my portfolio, projects and webpage. 
 
+Unique traits: instructor experience, being an instructor for 3 years helped me learn how to teach, explain information as simple as possible 
+
+Airborne paratrooper: jumping from planes, with weapons and equipment, teach your how to keep your calm underpressure and make sure mistakes aren't made pay attention to the details because it can man your life. 
+
+Worked in prison more pressure, hostile environments, the unknown can happen at any time 
+
+Pharmacy technician; working with patients, phi and medication keeps me detailed oriented, accurate and effienent. 
+
+Security clearance; working with military intelligence and access to them keeps me aware or what information is protected
+
+Currently: DIY my college degree learning and teaching myself is a skill that I've come to hone and improve upon while I pursue my degree with credit by exam. 
 
 
 ---
