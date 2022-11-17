@@ -45,6 +45,8 @@ Currently: DIY my college degree learning and teaching myself is a skill that I'
 
 Webpage, and Data Analyst Certifications...
 
+Specifically working in python and Streamlit converting the projects up into an interactive web application.
+
 ## `Completed Projects` 
 
 <details>
