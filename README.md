@@ -9,7 +9,7 @@ In this overview I will be updating my portfolio, projects and webpage.
 
 Unique traits: instructor experience, being an instructor for 3 years helped me learn how to teach, explain information as simple as possible 
 
-Airborne paratrooper: jumping from planes, with weapons and equipment, teach your how to keep your calm underpressure and make sure mistakes aren't made pay attention to the details because it can man your life. 
+Airborne Paratrooper: Jumping from planes really taught me about pressure and challenges, keeping calm and thinking through the situation rather than reacting. 
 
 Worked in prison more pressure, hostile environments, the unknown can happen at any time 
 
