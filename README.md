@@ -1,7 +1,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQFlUOA1AWFQ6g/profile-displaybackgroundimage-shrink_350_1400/0/1661184590800?e=1671667200&v=beta&t=pd4WL8lhejqeJNDuBpHDds9QLKK2MBYiDaDlY6ICS3I)
 # Hello I'm Olijoh M. Clarke,
 
-a Data Analyst, and US Army Veteran, Before making the change to Data analytics I've worked in various roles as a Pharmacy Technician ranging from retail to wholesale, inpatient, instructing, and sales. I've completed a four months fulltime  **'Data Analytics Immersion Bootcamp'** at Thinkful. My skillset ranges from Excel (Pivots, Formulas, Visualization, Analysis, Statistics) SQL, Python(Pandas, Numpy, Seaborn), data cleaning, data querying and Tableau. Currently a student at Thomas Edison State University for Mathematics and Minor in Computer Science as I continue to progress in my career.
+A Data Analyst, and US Army Veteran, Before making the change to Data analytics I've worked in various roles as a Pharmacy Technician ranging from retail to wholesale, inpatient, instructing, and sales. I've completed a four months fulltime  **'Data Analytics Immersion Bootcamp'** at Thinkful. My skillset ranges from Excel (Pivots, Formulas, Visualization, Analysis, Statistics) SQL, Python(Pandas, Numpy, Seaborn), data cleaning, data querying and Tableau. Currently a student at Thomas Edison State University for Mathematics and Minor in Computer Science as I continue to progress in my career.
   
   ⚡ Fun fact: I love biking, cars, drawing, writing, cooking, and I increase employee morale by 52.3% 😎
 
