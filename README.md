@@ -25,15 +25,13 @@ Currently: DIY my college degree learning and teaching myself is a skill that I'
 ### 🧰 Current Languages and Tools
 
 <img align="left" alt="Excel" width="50px" style="padding-right:10px;" src= "https://user-images.githubusercontent.com/22947672/197084596-607b1389-2eab-4998-a023-b547ae4ed00b.svg" />
-<img align="left" alt="Powerpoint" width="50px" style="padding-right:10px;" src= "https://user-images.githubusercontent.com/22947672/197084599-442929a5-ebb9-4ac5-8b10-d463c8145cad.svg" />
-<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197081337-78614be6-2df7-4da3-af94-6f89347d455c.svg" />
 <img align="left" alt="Postgres" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Tableau" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197084832-4b7b6d7f-815d-4cd5-89b9-939d7ffd6c5c.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197081439-befe6b5b-e79a-4275-98ad-e840c0f68deb.svg" />
 <img align="left" alt="NumPy" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1535px-Pandas_mark.svg.png" />
 <img align="left" alt="Tableau" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197085484-329678c8-c7bc-4c79-876c-da1bcd02e205.svg" />
-<img align="left" alt="Markdown" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/22947672/197123883-98d0dd9b-7a5f-4d36-b4cf-c9ac25961f49.svg" />
+
 <br/>
 
 
