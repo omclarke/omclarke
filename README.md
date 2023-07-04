@@ -34,6 +34,8 @@ Currently: DIY my college degree learning and teaching myself is a skill that I'
 
 <br/>
 
+[![Olijoh C's github stats](https://github-readme-stats.vercel.app/api?username=omclarke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omclarke)](https://github.com/anuraghazra/github-readme-stats)
 #
 
