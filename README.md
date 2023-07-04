@@ -34,7 +34,7 @@ Currently: DIY my college degree learning and teaching myself is a skill that I'
 
 <br/>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omclarke)](https://github.com/anuraghazra/github-readme-stats)
 #
 
 
