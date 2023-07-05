@@ -7,9 +7,9 @@ A Data Analyst, and US Army Veteran, Before making the change to Data analytics 
 
 In this overview I will be updating my portfolio, projects and webpage. 
 
-Unique traits: instructor experience, being an instructor for 3 years helped me learn how to teach, explain information as simple as possible 
+Unique traits: Public speaking was a favorite course in college, instructor experience, being an instructor for 3 years helped me learn how to teach, explain information as simple as possible 
 
-Airborne Paratrooper: Jumping from planes really taught me about pressure and challenges, keeping calm and thinking through the situation rather than reacting. 
+Airborne Paratrooper: Airborne school has a 60% attrition rate, and only 15% of enlisted soldiers are Airborne qualified, which i've achieved. 
 
 Worked in prison more pressure, hostile environments, the unknown can happen at any time 
 
