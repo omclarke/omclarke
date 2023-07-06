@@ -88,7 +88,7 @@ performance and solutions to increase profits while lowering operating costs for
 <summary><h3>🧰 Future Goals, Tools, and Languages </h3></summary>
 
 
-[![Olijoh C's github stats](https://github-readme-stats.vercel.app/api?username=omclarke&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 
 <img align="left" alt="R" width="50px" style="padding-right:10px;" 
