@@ -53,6 +53,20 @@ Specifically working in python and Streamlit converting the projects up into an 
 performance and solutions to increase profits while lowering operating costs for the next fiscal year. In process of this data, I cleaned the data, and separated profits down to location. The locations were focused areas based around airports and non airport locations. 
   A key, action that was implemented in this project, I removed all products that had a net negative return, increasing profits of the company by 270K. Before implementing any further strategies. 
   
+  In this project we have a multiple spread sheets from a rental car company “Lariat” the data ranged from locations, customer data, sales numbers, vehicle models, profit and loses, weather or not the vehicle got into an accident and it spread across multiple spreadsheets. 
+
+
+Going through the data, I found common variables that i can link them into one workable sheet. And later used pivot tables to come to some findings. For the data. Some of the data presented had some missing variables and mixed values, and nontraditional formatting. 
+
+The data has been cleaned and used to create a minimal dashboard. 
+
+I used index match, Vlookups for a majority of the data and sorting. 
+
+In the dashboard. The user can change the cells highlighted in yellow with values from 1 to 30% to see the implemented strategies and changes in the projected outputs. 
+
+
+
+  
   ##### Further Analysis
 > At the end of the analysis, I've come to realize the data collected on the customers wasn't sufficient enough create better strategies.  
 > Such as, customer IDs, to track how many repeat customers are apart of the income the company makes, and how we can capitilize on thes repeat customers. 
